@@ -1,5 +1,10 @@
 #Chinese zh_CN
 
+RojiuraMod:BuildingBlocks=路地裹：建筑方块
+RojiuraMod:DecorationBlocks=路地裹：装饰方块
+RojiuraMod:ExteriorBlocks=路地裹：外景方块
+RojiuraMod:WaterSideBlocks=路地裹：傍水方块
+
 tile.asphalt_wet.name=新沥青
 tile.asphalt_dry.name=旧沥青
 tile.asphalt_white.name=白色沥青
@@ -29,6 +34,11 @@ tile.wood_floor_dark_brown.name=木板地板（深棕）
 tile.wood_floor_light_brown.name=木板地板（浅棕）
 tile.wood_floor_orange_brown.name=木板地板（橙棕）
 tile.wood_floor_red.name=木板地板（红色）
+tile.wood_floor_half_brown.name=半木板地板（棕色）
+tile.wood_floor_half_dark_brown.name=半木板地板（深棕）
+tile.wood_floor_half_light_brown.name=半木板地板（浅棕）
+tile.wood_floor_half_orange_brown.name=半木板地板（橙棕）
+tile.wood_floor_half_red.name=半木板地板（红色）
 tile.ply_wood_brown.name=木纹板（棕色）
 tile.ply_wood_dark_brown.name=木纹板（深棕）
 tile.ply_wood_light_brown.name=木纹板（浅棕）
@@ -247,6 +257,7 @@ tile.beach_parasol_stripe_yellow.name=海滩伞（条纹黄）
 tile.beach_parasol_stripe_pink.name=海滩伞（条纹粉）
 tile.beach_parasol_stripe_green.name=海滩伞（条纹绿）
 tile.beach_parasol_cloth_white.name=海滩伞（白布）
+tile.beach_parasol_cloth_green.name=海滩伞（绿布）
 tile.beach_parasol_cloth_black.name=海滩伞（黑布）
 tile.beach_parasol_cloth_brown.name=海滩伞（棕布）
 tile.picnic_sheet.name=野餐垫
